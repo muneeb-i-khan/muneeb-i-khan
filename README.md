@@ -10,18 +10,20 @@
 <li> CyberSecurity and Cryptography </li>
 </ul>
 <hr>
-<h3> My Skills </h3>
+<h3> Tools and Languages </h3>
 <ul>
 <li> <a href='#'><img src='https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a> </li> 
+<li> <a href='#'><img src='https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png'/></a> </li> 
 </ul>
 <hr>
 <h3> My 2022 Goals </h3>
 <ul>
 <li> Learning C++, C and Python </li>
+<li> Web Development </li>
 <li> Data Structures and Algorithm </li>
 <li> Mathematics for Computer Science </li>
 <li> Competitive Coding </li>
