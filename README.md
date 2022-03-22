@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hi, I’m Muneeb Illahi Khan</h1>
+<h1 align='center'>👋 Hi, I’m Muneeb </h1>
 
 <h3>👀 I’m interested in:</h3>
 <ul style="list-style-type:disk;">
@@ -17,7 +17,7 @@
 <li> <a href='#'><img src='https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a> </li> 
-
+<li> <a href='#'><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/></a> </li> 
 </ul>
 <hr>
 <h3> My 2022 Goals </h3>
