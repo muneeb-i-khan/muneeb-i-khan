@@ -6,7 +6,6 @@
 <li> Competitive Coding </li>
 <li> Full Stack Development </li>
 <li> BlockChain </li>
-<li> OpenSource Contribution </li>
 <li> CyberSecurity and Cryptography </li>
 </ul>
 <hr>
