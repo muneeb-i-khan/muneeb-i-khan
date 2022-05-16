@@ -16,7 +16,7 @@
 <li> <a href='#'><img src='https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=c%2B%2B&logoColor=white'/></a> </li> 
-
+<li>  <a href='#'><img src='https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/></a> </li>
 <li> <a href='#'><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/></a> </li>
   <li> <a href='#'><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/></a> </li> 
 </ul>
