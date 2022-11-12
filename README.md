@@ -15,5 +15,7 @@ I'm currently learning Web2/Web3 development and DSA<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muneeb-i-khan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=muneeb-i-khan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![@muneeb_i_khan's Holopin board](https://holopin.me/muneeb_i_khan)](https://holopin.io/@muneeb_i_khan)
+---
