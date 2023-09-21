@@ -1,4 +1,3 @@
-# gm  
 <div align="center">
 <img src="https://i.pinimg.com/originals/44/92/f2/4492f2948473a9271158bc37246f4e3f.gif" align="center" style="width: 100%" />
 </div>  
